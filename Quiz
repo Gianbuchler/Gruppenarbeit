@@ -1,0 +1,111 @@
+# 🎯 Quiz: Einfach verkettete Liste
+
+---
+
+## Frage 1
+Was ist das wichtigste Merkmal einer einfach verketteten Liste?  
+- A) Sie hat eine feste Länge  
+- B) Jeder Knoten zeigt auf den nächsten Knoten  
+- C) Jeder Knoten zeigt auf den vorherigen Knoten  
+- D) Elemente liegen immer im Speicher nebeneinander  
+
+✅ Richtige Antwort: **B**
+
+---
+
+## Frage 2
+Wie heißt der Zeiger im letzten Knoten einer einfach verketteten Liste?  
+- A) END  
+- B) STOP  
+- C) NULL  
+- D) TAIL  
+
+✅ Richtige Antwort: **C**
+
+---
+
+## Frage 3
+Welche Laufzeit hat das **Suchen** eines Elements in einer einfach verketteten Liste?  
+- A) O(1)  
+- B) O(n)  
+- C) O(log n)  
+- D) O(n²)  
+
+✅ Richtige Antwort: **B**
+
+---
+
+## Frage 4
+Was passiert beim **Einfügen am Anfang** einer einfach verketteten Liste?  
+- A) Neuer Knoten zeigt auf NULL  
+- B) Neuer Knoten wird Head, zeigt auf den alten Head  
+- C) Alter Head wird gelöscht  
+- D) Liste wird sortiert  
+
+✅ Richtige Antwort: **B**
+
+---
+
+## Frage 5
+Welcher Nachteil gilt für einfach verkettete Listen?  
+- A) Fester Speicherplatz  
+- B) Kein dynamisches Einfügen möglich  
+- C) Kein direkter Zugriff per Index  
+- D) Keine Lösch-Operation möglich  
+
+✅ Richtige Antwort: **C**
+
+---
+
+## Frage 6
+Welcher Datentyp wird in C typischerweise für die Verkettung genutzt?  
+- A) int  
+- B) char  
+- C) struct Node*  
+- D) double  
+
+✅ Richtige Antwort: **C**
+
+---
+
+## Frage 7
+Welches Einsatzgebiet gehört NICHT zur einfach verketteten Liste?  
+- A) Speicherverwaltung  
+- B) Graph-Darstellung  
+- C) Hash-Tabellen  
+- D) Binäre Suche  
+
+✅ Richtige Antwort: **D**
+
+---
+
+## Frage 8
+Welche Operation nennt man auch „Traversieren“?  
+- A) Alle Knoten der Reihe nach durchlaufen  
+- B) Einfügen eines neuen Knotens  
+- C) Löschen des letzten Knotens  
+- D) Suche nach einem Wert  
+
+✅ Richtige Antwort: **A**
+
+---
+
+## Frage 9
+Welche Programmiersprache bietet die Klasse `forward_list` für einfach verkettete Listen?  
+- A) Java  
+- B) Python  
+- C) C++  
+- D) Go  
+
+✅ Richtige Antwort: **C**
+
+---
+
+## Frage 10
+Was markiert das Ende einer einfach verketteten Liste?  
+- A) Ein leerer Knoten  
+- B) Ein Zeiger auf NULL  
+- C) Der Wert -1  
+- D) Ein spezielles End-Flag  
+
+✅ Richtige Antwort: **B**
