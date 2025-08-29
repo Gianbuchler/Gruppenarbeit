@@ -8,7 +8,7 @@
 - **Unser Thema:** *Einfach verkettete Liste* (Singly Linked List)  
 
 
-  3. Aufbau und Funktionsweise
+  ## 3. Aufbau und Funktionsweise
 Grafische Darstellung
 Head
   |
