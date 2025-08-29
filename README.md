@@ -6,7 +6,7 @@
 
 - **Datenstruktur** = organisierte Sammlung von Daten zur effizienten Verarbeitung  
 - Unterschiedliche Typen: Arrays, Listen, Bäume, Stacks, Queues …  
-- **Unser Thema:** *Einfach verkettete Liste* (*Singly Linked List*)
+- **Unser Thema:** Einfach verkettete Liste* (*Singly Linked List*)
 
 ---
 
