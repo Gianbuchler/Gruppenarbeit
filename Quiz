@@ -1,5 +1,7 @@
 # 🎯 Quiz: Einfach verkettete Liste
 
+Hier findest du ein Quiz zur einfach verketteten Liste. Klicke auf "**Antwort anzeigen**", um die Lösung zu sehen!
+
 ---
 
 ## Frage 1
@@ -9,7 +11,10 @@ Was ist das wichtigste Merkmal einer einfach verketteten Liste?
 - C) Jeder Knoten zeigt auf den vorherigen Knoten  
 - D) Elemente liegen immer im Speicher nebeneinander  
 
-✅ Richtige Antwort: **B**
+<details>
+  <summary><strong>Antwort anzeigen</strong></summary>
+  ✅ <strong>Richtige Antwort:</strong> <span style="color:green;">B) Jeder Knoten zeigt auf den nächsten Knoten</span>
+</details>
 
 ---
 
@@ -20,7 +25,10 @@ Wie heißt der Zeiger im letzten Knoten einer einfach verketteten Liste?
 - C) NULL  
 - D) TAIL  
 
-✅ Richtige Antwort: **C**
+<details>
+  <summary><strong>Antwort anzeigen</strong></summary>
+  ✅ <strong>Richtige Antwort:</strong> <span style="color:green;">C) NULL</span>
+</details>
 
 ---
 
@@ -31,7 +39,10 @@ Welche Laufzeit hat das **Suchen** eines Elements in einer einfach verketteten L
 - C) O(log n)  
 - D) O(n²)  
 
-✅ Richtige Antwort: **B**
+<details>
+  <summary><strong>Antwort anzeigen</strong></summary>
+  ✅ <strong>Richtige Antwort:</strong> <span style="color:green;">B) O(n)</span>
+</details>
 
 ---
 
@@ -42,7 +53,10 @@ Was passiert beim **Einfügen am Anfang** einer einfach verketteten Liste?
 - C) Alter Head wird gelöscht  
 - D) Liste wird sortiert  
 
-✅ Richtige Antwort: **B**
+<details>
+  <summary><strong>Antwort anzeigen</strong></summary>
+  ✅ <strong>Richtige Antwort:</strong> <span style="color:green;">B) Neuer Knoten wird Head, zeigt auf den alten Head</span>
+</details>
 
 ---
 
@@ -53,7 +67,10 @@ Welcher Nachteil gilt für einfach verkettete Listen?
 - C) Kein direkter Zugriff per Index  
 - D) Keine Lösch-Operation möglich  
 
-✅ Richtige Antwort: **C**
+<details>
+  <summary><strong>Antwort anzeigen</strong></summary>
+  ✅ <strong>Richtige Antwort:</strong> <span style="color:green;">C) Kein direkter Zugriff per Index</span>
+</details>
 
 ---
 
@@ -64,7 +81,10 @@ Welcher Datentyp wird in C typischerweise für die Verkettung genutzt?
 - C) struct Node*  
 - D) double  
 
-✅ Richtige Antwort: **C**
+<details>
+  <summary><strong>Antwort anzeigen</strong></summary>
+  ✅ <strong>Richtige Antwort:</strong> <span style="color:green;">C) struct Node*</span>
+</details>
 
 ---
 
@@ -75,7 +95,10 @@ Welches Einsatzgebiet gehört NICHT zur einfach verketteten Liste?
 - C) Hash-Tabellen  
 - D) Binäre Suche  
 
-✅ Richtige Antwort: **D**
+<details>
+  <summary><strong>Antwort anzeigen</strong></summary>
+  ✅ <strong>Richtige Antwort:</strong> <span style="color:green;">D) Binäre Suche</span>
+</details>
 
 ---
 
@@ -86,7 +109,10 @@ Welche Operation nennt man auch „Traversieren“?
 - C) Löschen des letzten Knotens  
 - D) Suche nach einem Wert  
 
-✅ Richtige Antwort: **A**
+<details>
+  <summary><strong>Antwort anzeigen</strong></summary>
+  ✅ <strong>Richtige Antwort:</strong> <span style="color:green;">A) Alle Knoten der Reihe nach durchlaufen</span>
+</details>
 
 ---
 
@@ -97,7 +123,10 @@ Welche Programmiersprache bietet die Klasse `forward_list` für einfach verkette
 - C) C++  
 - D) Go  
 
-✅ Richtige Antwort: **C**
+<details>
+  <summary><strong>Antwort anzeigen</strong></summary>
+  ✅ <strong>Richtige Antwort:</strong> <span style="color:green;">C) C++</span>
+</details>
 
 ---
 
@@ -108,4 +137,7 @@ Was markiert das Ende einer einfach verketteten Liste?
 - C) Der Wert -1  
 - D) Ein spezielles End-Flag  
 
-✅ Richtige Antwort: **B**
+<details>
+  <summary><strong>Antwort anzeigen</strong></summary>
+  ✅ <strong>Richtige Antwort:</strong> <span style="color:green;">B) Ein Zeiger auf NULL</span>
+</details>
